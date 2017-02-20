@@ -25,9 +25,9 @@
     "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/20150831-55e46ad551392-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "Добро пожаловать на наш сервис — TOPIMAX"
   },
   "pages": {
     "TopiMax.html": {
