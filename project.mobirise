@@ -25,16 +25,16 @@
     "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/20150831-55e46ad551392-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "TopiMax.html": {
       "settings": {
         "main": true,
         "title": "TOPIMAX",
-        "meta_descr": "",
+        "meta_descr": "TOPIMAX — ЛУЧШИЙ СЕРВИС ПО РАСРТКЕ И ПРОДВИЖЕНИЮ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
