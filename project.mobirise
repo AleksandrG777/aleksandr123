@@ -24,13 +24,16 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 29,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "TopiMax.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "TOPIMAX",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -314,11 +317,11 @@
           "_anchor": "msg-box6-c",
           "_params": {
             "imageSize": "46",
-            "paddingTop": "6",
+            "paddingTop": "7",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1184.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -337,7 +340,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1051.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x920.jpg",
               "link": "",
               "alt": "",
               "title": "",
