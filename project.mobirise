@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "info.html",
+    "currentPage": "TopiMax.html",
     "name": "TopiMax",
     "theme": {
       "name": "mobirise3",
@@ -50,10 +50,10 @@
               "font-size": "36px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#a38f84"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#a38f84"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -65,16 +65,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#827b79"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#948d8b!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#9b9593"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#a38f84",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -94,7 +94,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#a38f84"
             }
           },
           "_name": "menu",
