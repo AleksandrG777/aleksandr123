@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "TopiMax.html",
-    "name": "My Site",
+    "currentPage": "info.html",
+    "name": "TopiMax",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,12 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 31,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113.png",
+    "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113-1.png",
     "noImageResize": "",
-    "cookiesAlert": "Добро пожаловать на наш сервис — TOPIMAX"
+    "cookiesAlert": ""
   },
   "pages": {
     "TopiMax.html": {
@@ -100,10 +100,10 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#9b9593",
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#a38f84",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -126,8 +126,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Накрутка Лайков</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Накрутка Подписчиков</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Накрутка Комментариев</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TopiMax.html#form2-p\">Служба поддержки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Наши контакты</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"TopiMax.html#form2-p\">Быстрый заказ</a></li>"
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\">Быстрый заказ</a></li>"
         },
         {
           "_name": "header1",
@@ -165,7 +165,7 @@
           },
           "title": "<span style=\"font-size: 3.125rem; line-height: 1.1;\">Раскрутка и Продвижение</span><br>",
           "text": "Лучший сервис по раскрутке и продвижению в популярных социальных сетях Вконтакте и Инстагарм<br>С намими вы экономите до 50%&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TopiMax.html#form2-p\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TopiMax.html#form2-t\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
         },
         {
           "_inherit": "features4",
@@ -375,9 +375,9 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-p",
+          "_anchor": "form2-t",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -390,12 +390,12 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "ОФОРМИТЬ ЗАКАЗ",
-          "subtitle": "Заполните простую форму и мы с вами свяжемся в близжайшее время...",
+          "title": "ОФОРМИТЕ ЗАКАЗ",
+          "subtitle": "Сообщите ссылку на ваш профиль Vk.com и мы с вами свяжемя...",
           "form": {
             "action": "topimax@mail.ru",
             "alerts": {
-              "success": "Готово\nМы свяжемся с вами в близжайшее время для обсуждения деталей!"
+              "success": "Готово"
             },
             "fields": {
               "email": {
@@ -404,7 +404,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_inherit": "testimonials1",
@@ -515,7 +515,7 @@
         }
       ]
     },
-    "page2.html": {
+    "info.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -529,6 +529,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-s",
           "_params": {
             "labelsColor": "#232323",
@@ -574,12 +579,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;ОТПРАВИТЬ</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;ОТПРАВИТЬ</a>"
         },
         {
           "_styles": {
@@ -591,10 +591,10 @@
               "font-size": "36px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#a38f84"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#a38f84"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -606,16 +606,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#a38f84",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -635,16 +635,16 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#a38f84"
             }
           },
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "bgColor": "#9b9593",
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#a38f84",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -667,8 +667,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">УСЛУГИ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Накрутка Лайков</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Накрутка Подписчиков</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Накрутка Комментариев</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TopiMax.html#form2-p\">Служба поддержки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Наши контакты</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"TopiMax.html#form2-p\">Быстрый заказ</a></li>"
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\">Быстрый заказ</a></li>"
         }
       ]
     }

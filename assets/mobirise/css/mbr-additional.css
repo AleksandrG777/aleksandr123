@@ -502,10 +502,10 @@ h6,
 #msg-box6-c H3 {
   font-size: 32px;
 }
-#form2-p .mbr-section-title {
+#form2-t .mbr-section-title {
   color: #fff;
 }
-#form2-p .mbr-section-subtitle {
+#form2-t .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #testimonials3-2 .mbr-section-title {
@@ -529,11 +529,11 @@ h6,
   font-size: 36px;
 }
 #menu-q .navbar-toggler {
-  color: #000000;
+  color: #a38f84;
 }
 #menu-q .link,
 #menu-q .dropdown-item {
-  color: #000000;
+  color: #a38f84;
 }
 #menu-q .link {
   font-size: 0.75rem;
@@ -550,22 +550,22 @@ h6,
 }
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-menu {
-  background: #d6d6d6;
+  background: #e6e6e6;
 }
 #menu-q .nav-dropdown-sm .link:focus,
 #menu-q .nav-dropdown-sm .link:hover,
 #menu-q .nav-dropdown-sm .dropdown-item:focus,
 #menu-q .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #f7f7f7!important;
 }
 #menu-q .navbar,
 #menu-q .nav-dropdown-sm,
 #menu-q .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-q .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 #menu-q .bg-color.transparent .link {
-  color: #000000;
+  color: #a38f84;
   transition: none;
 }
 #menu-q .bg-color.transparent.opened .link {
@@ -587,5 +587,5 @@ h6,
 }
 #menu-q .close-icon::before,
 #menu-q .close-icon::after {
-  background-color: #000000;
+  background-color: #a38f84;
 }
