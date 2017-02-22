@@ -222,7 +222,7 @@
           },
           "title1": "Поддержка",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Круглосутачная поддержка онлайн. Если у вас будут какие либо вопросы или проблемы в период пользования нашим сервисом, обязательно обратитесь в поддержку",
+          "caption1": "Круглосуточная поддержка онлайн. Если у вас будут какие либо вопросы или проблемы в период пользования нашим сервисом, обязательно обратитесь в поддержку",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -364,7 +364,7 @@
               "size": 250
             }
           },
-          "title": "TOPIMAX<br>Раскрутка и Продвижение",
+          "title": "TOPIMAX<br>Раскрутка &amp; Продвижение",
           "text": "Спасибо что выбрали нас!&nbsp;<br>Мы рады каждому пользователю! ;)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -465,7 +465,7 @@
           "text6": "<strong>Контакты</strong><br>Email: topimax@mail.ru<br>Phone: +7 (937) 750 67 39<br><br><br><strong>Адрес компании</strong><br>Россия, Волгоград<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "garaev.sasha2003@gmail.com",
+            "action": "topimax@mail.ru",
             "alerts": {
               "success": "Готово! Мы скоро свяжемся с вами ;)"
             },
