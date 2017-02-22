@@ -397,16 +397,16 @@
             "showSubTitle": true
           },
           "title": "ОФОРМИТЕ ЗАКАЗ",
-          "subtitle": "Сообщите ссылку на ваш профиль Vk.com и мы с вами свяжемя...",
+          "subtitle": "Отправьте нам свой адрес E-Mail и мы с вами свяжемся в близжайшее время...",
           "form": {
             "action": "topimax@mail.ru",
             "alerts": {
-              "success": "Готово"
+              "success": "Готово\nМы свяжемя с вами в близжайшее время по E-Mail\nНаша почта TOPIMAX@MAIL.RU"
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Ваш профиль Vk.com"
+                "customTitle": "E-Mail"
               }
             }
           },
