@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113-1.png",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TopiMax.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://aleksandrg777.github.io/aleksandr123/\">Техничиская поддержка</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"TopiMax.html#contacts3-v\">Быстрый заказ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://aleksandrg777.github.io/aleksandr123/\">Техничиская поддержка</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://i.topimax.ru.com/start\">Быстрый заказ</a></li>"
         },
         {
           "_name": "header1",
@@ -166,7 +166,7 @@
           },
           "title": "<span style=\"font-size: 3.125rem; line-height: 1.1;\">&nbsp;Раскрутка &amp; Продвижение</span><br>",
           "text": "Лучший сервис по раскрутке и продвижению в популярных социальных сетях Vk.com и Instagram.com<br>С нами вы экономите до 50%&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TopiMax.html#contacts3-v\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://i.topimax.ru.com/start\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
         },
         {
           "_inherit": "features4",
@@ -370,128 +370,47 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title": {
+              "color": "#fff"
             },
-            "H3": {
-              "color": "#c1c1c1"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-x",
+          "_name": "form2",
+          "_anchor": "form2-y",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2a2a2a",
-            "showMeta": true
-          },
-          "title": "Быстрый заказ",
-          "meta": "Оформите заказ до 24 Февраля и получите скидку 5%<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-v",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2a2a2a",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/likevv-265x235.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "linkInNewWindow": false,
-              "name": "cart-add",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "TopiMax — Лучший сервис по раскрутке и продвижению в популярных социальных сетях Vk.com и Instagram.com",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+7 (937) 750 67 39<br>+7 (937) 750 67 62",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "Волгоград, Россия<br>400119",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "topimax@mail.ru",
-          "title1": "Дополнительно",
-          "text5": "<li><a href=\"#top\">Главная</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"https://vk.com/app5619682_-123487599\" target=\"_blank\">Заполнить форму заказа в сообществе Вконтакте</a><a href=\"https://vk.com/app5619682_-123487599\" target=\"_blank\"></a></li>",
-          "text6": "<strong>Контакты</strong><br>Email: topimax@mail.ru<br>Phone: +7 (937) 750 67 39<br><br><br><strong>Адрес компании</strong><br>Россия, Волгоград<br>",
+          "title": "TOPIMAX",
+          "subtitle": "Подпишитесь на наши обновления и получайте самые свежие новости о скидках и акциях...",
           "form": {
-            "title": "MESSAGE",
             "action": "topimax@mail.ru",
             "alerts": {
-              "success": "Готово! Мы скоро свяжемся с вами ;)"
+              "success": "Готово! Спасибо за подписку! "
             },
             "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Имя"
-              },
               "email": {
                 "title": "Email",
-                "visible": false,
-                "customTitle": ""
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Ваш профиль Vk.com для связи"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Какую услугу желаете?"
+                "customTitle": "E-Mail"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Отправить</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Подписаться</a>"
         },
         {
           "_inherit": "testimonials1",

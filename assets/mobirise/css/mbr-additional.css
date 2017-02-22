@@ -502,12 +502,11 @@ h6,
 #msg-box6-c H3 {
   font-size: 32px;
 }
-#header3-x .mbr-section-title,
-#header3-x .mbr-section-subtitle {
-  text-align: center;
+#form2-y .mbr-section-title {
+  color: #fff;
 }
-#header3-x H3 {
-  color: #c1c1c1;
+#form2-y .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #testimonials3-2 .mbr-section-title {
   color: #efefef;
