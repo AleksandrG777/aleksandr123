@@ -371,7 +371,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#cccccc"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
