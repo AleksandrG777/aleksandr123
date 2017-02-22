@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113-1.png",
@@ -369,18 +369,41 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2a2a2a",
+            "showMeta": true
+          },
+          "title": "Быстрый заказ",
+          "meta": "Оформите заказ до 24 Февраля и получите скидку 5%<br>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-v",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#2a2a2a",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -462,50 +485,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Отправить</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-t",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "ОФОРМИТЕ ЗАКАЗ",
-          "subtitle": "Отправьте нам свой адрес E-Mail и мы с вами свяжемся в близжайшее время...",
-          "form": {
-            "action": "topimax@mail.ru",
-            "alerts": {
-              "success": "Готово\nМы свяжемя с вами в близжайшее время по E-Mail\nНаша почта TOPIMAX@MAIL.RU"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "E-Mail"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         },
         {
           "_inherit": "testimonials1",
