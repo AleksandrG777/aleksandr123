@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/likevv-128x113-1.png",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TopiMax.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TopiMax</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://aleksandrg777.github.io/aleksandr123/\">Техничиская поддержка</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"TopiMax.html#form2-t\">Быстрый заказ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ПОМОЩЬ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vk.com/topimax\" target=\"_blank\">Сообщество Vk.com</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://aleksandrg777.github.io/aleksandr123/\">Техничиская поддержка</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"TopiMax.html#contacts3-v\">Быстрый заказ</a></li>"
         },
         {
           "_name": "header1",
@@ -166,7 +166,7 @@
           },
           "title": "<span style=\"font-size: 3.125rem; line-height: 1.1;\">&nbsp;Раскрутка &amp; Продвижение</span><br>",
           "text": "Лучший сервис по раскрутке и продвижению в популярных социальных сетях Vk.com и Instagram.com<br>С нами вы экономите до 50%&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TopiMax.html#form2-t\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TopiMax.html#contacts3-v\" data-toolbar=\"-mbrBtnMove\">Быстрый заказ</a> "
         },
         {
           "_inherit": "features4",
@@ -367,6 +367,101 @@
           "title": "TOPIMAX<br>Раскрутка и Продвижение",
           "text": "Спасибо что выбрали нас!&nbsp;<br>Мы рады каждому пользователю! ;)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "TopiMax — Лучший сервис по раскрутке и продвижению в популярных социальных сетях Vk.com и Instagram.com",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+7 (937) 750 67 39<br>+7 (937) 750 67 62",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Волгоград, Россия<br>400119",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "topimax@mail.ru",
+          "title1": "Дополнительно",
+          "text5": "<li><a href=\"#top\">Главная</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"https://vk.com/app5619682_-123487599\" target=\"_blank\">Заполнить форму заказа в сообществе Вконтакте</a><a href=\"https://vk.com/app5619682_-123487599\" target=\"_blank\"></a></li>",
+          "text6": "<strong>Контакты</strong><br>Email: topimax@mail.ru<br>Phone: +7 (937) 750 67 39<br><br><br><strong>Адрес компании</strong><br>Россия, Волгоград<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "topimax@mail.ru",
+            "alerts": {
+              "success": "Готово! Мы скоро свяжемся с вами ;)"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": ""
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Ваш профиль Vk.com для связи"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Какую услугу желаете?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Отправить</a>"
         },
         {
           "_styles": {
