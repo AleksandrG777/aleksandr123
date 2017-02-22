@@ -465,7 +465,7 @@
           "text6": "<strong>Контакты</strong><br>Email: topimax@mail.ru<br>Phone: +7 (937) 750 67 39<br><br><br><strong>Адрес компании</strong><br>Россия, Волгоград<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "topimax@mail.ru",
+            "action": "garaev.sasha2003@gmail.com",
             "alerts": {
               "success": "Готово! Мы скоро свяжемся с вами ;)"
             },
